@@ -10,7 +10,7 @@
 
     // BACKSTRETCH SLIDESHOW
     $('.hero-section').backstretch([
-      "images/slideshow/acer.JPG", 
+      "images/slideshow/afro-woman-cleaning-window-with-rag-home.jpg", 
       "images/slideshow/rakit.JPEG",
       "images/slideshow/pc.JPG"
     ],  {duration: 2000, fade: 750});
