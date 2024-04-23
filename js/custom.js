@@ -10,9 +10,9 @@
 
     // BACKSTRETCH SLIDESHOW
     $('.hero-section').backstretch([
-      "images/slideshow/acer.JPG", 
-      "images/slideshow/rakit.JPEG",
-      "images/slideshow/pc.JPG"
+      "images/slideshow/acer.jpg", 
+      "images/slideshow/rakit.jpg",
+      "images/slideshow/pc.jpg"
     ],  {duration: 2000, fade: 750});
     
     // CUSTOM LINK
